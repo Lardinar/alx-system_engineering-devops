@@ -1,1 +1,2 @@
-## This is the basic shell project..
+#!/bin/bash
+pwd
